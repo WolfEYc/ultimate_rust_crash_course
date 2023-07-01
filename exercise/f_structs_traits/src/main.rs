@@ -36,7 +36,7 @@ fn main() {
     println!("I take a bite: {:?}", carrot);
 
     // 4. Uncomment and adjust the code below to match how you defined your
-    // Grapes struct.
+    // Grapes struct
     //
     let mut grapes = Grapes { amount_left: 100 };
     grapes.bite();
